@@ -31,7 +31,7 @@ author = 'Conor Hoekstra + contributors'
 # ones.
 extensions = [ "breathe" ]
 
-breathe_projects = { 'j' : '/home/cph/jsource/build/docs/doxygen/xml'}
+breathe_projects = { 'j' : '/home/esna0001/jsource/build/docs/doxygen/xml'}
 
 breathe_default_project = "j"
 

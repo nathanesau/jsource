@@ -22,7 +22,7 @@
     ```
    * To build release:
     ```sh
-    ninja -C build -f build-Release.ninja` 
+    ninja -C build -f build-Release.ninja
     ```
 4. Run jconsole:
    * To run the debug build:

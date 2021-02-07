@@ -9,3 +9,4 @@ J Language
    verbs
    adverbs
    conjunctions
+   tables
