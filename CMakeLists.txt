@@ -39,7 +39,7 @@ add_compile_options($<$<COMPILE_LANGUAGE:C,CXX>:-Wfatal-errors>)
 add_compile_options($<$<COMPILE_LANGUAGE:C,CXX>:-fdiagnostics-color=always>)
 
 # Treat warnings as errors
-add_compile_options($<$<COMPILE_LANGUAGE:C,CXX>:-Werror>)
+#add_compile_options($<$<COMPILE_LANGUAGE:C,CXX>:-Werror>)
 
 # Exclude warnings from errors
 add_compile_options($<$<COMPILE_LANG_AND_ID:C,GNU>:-Wno-error=sequence-point>)
